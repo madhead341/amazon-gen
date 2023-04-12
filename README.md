@@ -9,4 +9,4 @@ go into cmd and install colorama by executing this command:
  
   
  
- After that run amazongen.py
+ After that run amazon.py
