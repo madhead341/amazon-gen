@@ -3,8 +3,10 @@ Simple amazon storecard generator
 
 ## STEPS
 
-go into cmd and install colorama by doing this:
+go into cmd and install colorama by executing this command:
   
   pip install colorama
  
- run amazongen.py
+ 
+ 
+ After that run amazongen.py
